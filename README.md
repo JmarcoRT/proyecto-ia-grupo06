@@ -1,7 +1,7 @@
-# Proyecto Grupal de Inteligencia Artificial — Grupo 03
+# Proyecto Grupal de Inteligencia Artificial
 
 **Asignatura:** Inteligencia Artificial
-**Escuela Profesional de Ingeniería de Software — FISI — UNMSM**
+
 **Semestre:** 2026-I
 **Docente:** Prof. Juan Gamarra Moreno
 
