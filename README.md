@@ -40,12 +40,12 @@ El proceso generador completo está documentado en data/PG_IA_Grupo03_Generacion
 ## Estructura del repositorio
 
 ```
-proyecto-ia-grupo03/
+proyecto-ia-grupo06/
 ├── README.md
 ├── autoevaluacion/
 ├── data/
 │   ├── andinasense_parcelas.csv
-│   └── PG_IA_Grupo03_GeneracionDataset.ipynb
+│   └── PG_IA_Grupo06_GeneracionDataset.ipynb
 ├── exposicion/
 │   ├── enlace_video.txt
 │   └── orden_participacion.txt
@@ -54,17 +54,17 @@ proyecto-ia-grupo03/
 │   └── Informe2_AlfaBeta/
 ├── notebooks/
 │   ├── andinasense_parcelas.csv
-│   ├── PG_IA_Grupo03_Informe3_Regresion.ipynb
-│   ├── PG_IA_Grupo03_Informe4_Clasificacion.ipynb
-│   ├── PG_IA_Grupo03_Informe5_Agrupamiento.ipynb
-│   └── PG_IA_Grupo03_Informe6_ReduccionDimensionalidad.ipynb
+│   ├── PG_IA_Grupo06_Informe3_Regresion.ipynb
+│   ├── PG_IA_Grupo06_Informe4_Clasificacion.ipynb
+│   ├── PG_IA_Grupo06_Informe5_Agrupamiento.ipynb
+│   └── PG_IA_Grupo06_Informe6_ReduccionDimensionalidad.ipynb
 ├── informes/
-│   ├── PG_IA_Grupo03_Informe3_Regresion.html
-│   ├── PG_IA_Grupo03_Informe4_Clasificacion.html
-│   ├── PG_IA_Grupo03_Informe5_Agrupamiento.html
-│   └── PG_IA_Grupo03_Informe6_ReduccionDimensionalidad.html
+│   ├── PG_IA_Grupo06_Informe3_Regresion.html
+│   ├── PG_IA_Grupo06_Informe4_Clasificacion.html
+│   ├── PG_IA_Grupo06_Informe5_Agrupamiento.html
+│   └── PG_IA_Grupo06_Informe6_ReduccionDimensionalidad.html
 └── prompts/
-    └── PG_IA_Grupo03_AnexoPrompts.pdf
+    └── PG_IA_Grupo06_AnexoPrompts.pdf
 ```
 
 El archivo andinasense_parcelas.csv se incluye también dentro de notebooks/ para que los notebooks se ejecuten sin ajustar rutas. La carpeta exposicion/ contiene el enlace al video y el orden de participación, y autoevaluacion/ contiene la autoevaluación del equipo.
@@ -83,4 +83,4 @@ Los programas en Java de los Informes 1 y 2 están en java/. Cada carpeta contie
 
 ## Declaración de uso de IA
 
-Durante el desarrollo del proyecto se utilizó IA generativa (Claude Opus 4.8) como apoyo para estructurar el modelado, generar el dataset sintético, depurar código e interpretar resultados. Todos los prompts empleados, junto con su objetivo, resultado y la validación realizada por el equipo, están documentados en prompts/PG_IA_Grupo03_AnexoPrompts.pdf. El equipo verificó, corrigió y comprendió todo el código y los resultados presentados.
+Durante el desarrollo del proyecto se utilizó IA generativa (Claude Opus 4.8) como apoyo para estructurar el modelado, generar el dataset sintético, depurar código e interpretar resultados. Todos los prompts empleados, junto con su objetivo, resultado y la validación realizada por el equipo, están documentados en prompts/PG_IA_Grupo06_AnexoPrompts.pdf. El equipo verificó, corrigió y comprendió todo el código y los resultados presentados.
